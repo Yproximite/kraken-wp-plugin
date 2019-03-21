@@ -3,7 +3,7 @@
     "description": "Optimizes all your Wordpress images through the Kraken API",
     "homepage": "https://kraken.io/",
     "type": "wordpress-plugin",
-    "license": "GNU GPLv3",
+    "license": "GNU GPLv2",
     "require": {
         "php": ">=7.0"
     }
